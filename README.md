@@ -42,10 +42,15 @@ The -lm flag is required to link the math library.
     Enter the values for the rectangle's length, breadth, and the circle's radius when prompted.
 
 4] The program will output the following:
+    
     Sum of the length and breadth
+    
     Perimeter of the rectangle
+    
     Area of the rectangle
+    
     Circumference of the circle
+    
     Area of the circle
 
 # Sample Output
@@ -53,12 +58,19 @@ The -lm flag is required to link the math library.
 #Random number is taken
  
 Enter the length: 5
+
 Enter the breadth: 3
+
 Enter the radius: 7
+
 Sum of length and breadth: 8.00
+
 Perimeter of rectangle: 16.00
+
 Area of rectangle: 15.00
+
 Circumference of circle: 43.98
+
 Area of circle: 153.94
 
 License
