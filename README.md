@@ -3,7 +3,7 @@ Doing this for fun.
 
 I am modifying and adding code from my PPS practical lab.
 
-Geometry Calculator
+GEOMETRY CALCULATOR
 
 This program calculates basic geometric properties of a rectangle and a circle based on user input.
 
@@ -26,9 +26,10 @@ Requirements :
 2] The program uses the math library (math.h), so ensure that your compiler supports it.
 
 Instructions :
+
 FOR LINUX USERS :
 
-1] Clone the repository or copy the source code into a .c file (e.g., geometry_calculator.c).
+1] Clone the repository or copy the source code into a .c file (e.g., geometry_calculator.c) in the terminal.
 
 2] Compile the program using a C compiler:
 
