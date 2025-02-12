@@ -1,7 +1,7 @@
 # GEOMETRY
-doing this for fun.
+Doing this for fun.
 
-i am modifying and adding code from my PPS practical lab.
+I am modifying and adding code from my PPS practical lab.
 
 Geometry Calculator
 
