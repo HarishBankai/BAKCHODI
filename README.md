@@ -26,6 +26,7 @@ Requirements :
 2] The program uses the math library (math.h), so ensure that your compiler supports it.
 
 Instructions :
+FOR LINUX USERS :
 
 1] Clone the repository or copy the source code into a .c file (e.g., geometry_calculator.c).
 
