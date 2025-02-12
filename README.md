@@ -1,11 +1,14 @@
 # GEOMETRY
 doing this for fun.
+
 i am modifying and adding code from my PPS practical lab.
 
 Geometry Calculator
 
 This program calculates basic geometric properties of a rectangle and a circle based on user input.
+
 Features :
+
 1] Sum of Length and Breadth: Calculates the sum of the rectangle's length and breadth.
 
 2] Perimeter of Rectangle: Computes the perimeter of the rectangle.
