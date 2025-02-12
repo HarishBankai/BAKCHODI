@@ -29,7 +29,7 @@ Instructions :
 
 FOR LINUX USERS :
 
-1] Clone the repository or copy the source code into a .c file (e.g., geometry_calculator.c) in the terminal.
+1] Clone the repository or copy the source code into a geometry_calculator.c in the terminal.
 
 2] Compile the program using a C compiler:
 
