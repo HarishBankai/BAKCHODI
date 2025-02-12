@@ -1,22 +1,29 @@
 # GEOMETRY
 doing this for fun.
-i am modifying and adding code from your PPS practical lab.
+i am modifying and adding code from my PPS practical lab.
 
 Geometry Calculator
 
 This program calculates basic geometric properties of a rectangle and a circle based on user input.
 Features :
 1] Sum of Length and Breadth: Calculates the sum of the rectangle's length and breadth.
+
 2] Perimeter of Rectangle: Computes the perimeter of the rectangle.
+
 3] Area of Rectangle: Calculates the area of the rectangle.
+
 4] Circumference of Circle: Computes the circumference of the circle.
+
 5] Area of Circle: Computes the area of the circle.
 
 Requirements :
+
 1] A C compiler (e.g., GCC)
+
 2] The program uses the math library (math.h), so ensure that your compiler supports it.
 
 Instructions :
+
 1] Clone the repository or copy the source code into a .c file (e.g., geometry_calculator.c).
 
 2] Compile the program using a C compiler:
