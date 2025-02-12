@@ -21,7 +21,7 @@ Features :
 
 Requirements :
 
-1] A C compiler (e.g., GCC)
+1] C compiler (e.g., GCC)
 
 2] The program uses the math library (math.h), so ensure that your compiler supports it.
 
@@ -33,7 +33,7 @@ FOR LINUX USERS :
 
 2] Compile the program using a C compiler:
 
-gcc geometry_calculator.c -o geometry_calculator -lm
+        gcc geometry_calculator.c -o geometry_calculator -lm
 
 The -lm flag is required to link the math library.
 
